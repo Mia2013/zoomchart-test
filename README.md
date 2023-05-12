@@ -1,12 +1,28 @@
 
-## Az alkalmazás elindítása
+## ZoomCharts Neo4j alkalmazás
+
+## Stack
+
+* Frontend: ES6, React, [ZoomCharts](https://zoomcharts.com/en/)
 
 
-### 1. lépés 
-Repository letöltése
+## Elindítás
 
-### 2. lépés 
-Bele kell lépni a repository mappájába, ott kiadni terminálon keresztül az `npm install` parancsot, ekkor feltöltödnek a package.json alapján az alkalmazáshoz szükséges függőségek
+### Beállítások
 
-### 3. lépés 
-Terminálon keresztül kiadni az `npm start` parancsot, így indul el az alkalmazás.
+Repository letöltése után be kell lépni a mappába, és terminálon keresztül beírni az alábbi parancsot:
+
+```bash
+$ npm install
+```
+
+
+### Az alkalmazás elindítása
+
+Miután feltelepültek a package.json alapján az alkalmazás függőségei, terminálon keresztül kell beírni az alábbi parancsot az indításhoz:
+
+```bash
+$ npm install
+```
+
+
