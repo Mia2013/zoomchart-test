@@ -22,7 +22,7 @@ $ npm install
 Miután feltelepültek a package.json alapján az alkalmazás függőségei, terminálon keresztül kell beírni az alábbi parancsot az indításhoz:
 
 ```bash
-$ npm install
+$ npm start
 ```
 
 
