@@ -41,7 +41,7 @@ function ZoomCharts() {
                 to: obj.a.elementId,
                 style: {
                   label: "acted in",
-                  toDecoration: "arrow",
+                  fromDecoration: "arrow",
                 },
               })),
               ...data.map((obj) => ({
