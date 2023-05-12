@@ -1,4 +1,4 @@
-import ZoomCharts from "./ZoomCharts";
+import ZoomCharts from "./components/ZoomCharts";
 
 function App() {
   return (
